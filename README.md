@@ -1,9 +1,3 @@
-# useCounter Hook
+# Notas
 
-Ejemplo de uso:
-
-```
-    const { counter, increment, decrement, reset } = useCounter(10);
-```
-
-useCounter() recibe un valor por defecto
+Este repositorio contiene varios customHooks que fui creando durante el curso. La idea es no reescribirlos cada vez que los necesito.
